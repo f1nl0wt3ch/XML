@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tuotteet paivitetty="2012-08-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tuotteet.xsd">
+	<tuote tuotekoodi="3871" ryhma="kamera">
+		<nimi>Canon IXUS 220 HS -digikamera</nimi>
+		<kuvaus>IXUS 220 HS yhdistää tehokkaan HS System -järjestelmän ja klassisen IXUS-muotoilun: ultralaajakulmainen 5x zoom-objektiivi, Full HD -videokuvaus ja hyvät hämäräkuvausominaisuudet ovat sulavalinjaisessa ruostumattomassa teräsrungossa.</kuvaus>
+		<hinta valuutta="euro">149.90</hinta>
+		<kuva src="IXUS220_1.jpg" tyyppi="jpg"/>
+		<kuva src="XUS220_2.jpg" tyyppi="jpg"/>
+	</tuote>
+	<tuote ryhma="audio" tuotekoodi="11212">
+		<nimi>Sennheiser HD 205 II DJ-kuulokkeet</nimi>
+		<kuvaus>Sennheiser HD 205 II kuulokkeet ovat laadukkaat, ergonomisesti muotoillut ja hyvällä äänenlaadulla varustetut suljetut DJ-kuulokkeet.</kuvaus>
+		<hinta>48.90</hinta>
+	</tuote>
+	<tuote ryhma="audio" tuotekoodi="38657">
+		<nimi>Logitech Ultimate Ears 300 Noise-Isolating Earphones - nappikuulokkeet</nimi>
+		<hinta valuutta="euro">39.90</hinta>
+	</tuote>
+	<tuote ryhma="oheislaitteet" tuotekoodi="16799">
+		<nimi>Kingston 16 GB DataTraveler 100 G2 USB 2.0 -muistitikku</nimi>
+		<kuvaus>Luotettava ja edullinen muistitikku tiedon helppoon siirtoon ja kuljetukseen. Tyylikäs viimeistely sisäänvedettävällä liittimellä. Soveltuu erinomaisesti esim. koti-, toimisto- tai koulukäyttöön.</kuvaus>
+		<hinta valuutta="euro">17.90</hinta>
+		<kuva src="Kingston16_1.gif" tyyppi="gif"/>
+	</tuote>
+</tuotteet>

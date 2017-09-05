@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cv xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xsi:noNamespaceSchemaLocation="cv.xsd">
+	<Identification>
+	    <PersonName>
+	        <FirstName>Duc</FirstName>
+	        <Surname>Dinh</Surname>
+	    </PersonName>
+	    <ContactInfo>
+	        <AddressLine>Keihästie 3B30</AddressLine>
+	        <PostalCode>01280</PostalCode>
+	        <Municipality>Vantaa</Municipality>
+	        <Country>Suomi</Country>
+	        <Email>duc.dinh@yahoo.com</Email>
+	    </ContactInfo>
+	    <Demographics>
+	        <Birthdate year="1990" month="06" day="14"/>
+	        <Gender>Man</Gender>
+	        <Nationality>Finnish</Nationality>
+	    </Demographics>
+	</Identification>
+	<WorkExperienceList>
+	     <WorkExperience>
+	         <From year="2010" month="01" day="01"/>
+	         <To year="2012" month="01" day="01"/>
+	         <Position>Mobile developer</Position>
+	         <Activities>Design mobile app</Activities>
+	         <Employer>Microsoft</Employer>
+	     </WorkExperience>
+	</WorkExperienceList>
+</Cv>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name='toplista'>
+		<xs:complexType>
+			<xs:sequence>
+				   <xs:element name="tiedot">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="vuosi" type="xs:gYear" maxOccurs="1"></xs:element>
+							<xs:element name="viikko" type="xs:positiveInteger" maxOccurs="1"></xs:element>
+							<xs:element name="lahde" type="xs:string"></xs:element>
+							<xs:element name="saate" type="xs:string"></xs:element>
+						</xs:sequence>
+					</xs:complexType><!-- tiedot complexType -->
+				</xs:element><!-- tiedot element -->
+				<xs:element name="ohjelmat">
+					<xs:complexType>
+					   <xs:sequence>
+						<xs:element name="ohjelma" maxOccurs="unbounded">
+							<xs:complexType>
+							    <xs:sequence>
+							        <xs:element name="nimi" type="xs:string"></xs:element>
+									<xs:element name="katsojamaara" type="xs:positiveInteger"></xs:element>
+								</xs:sequence>
+								<xs:attribute name="jnro" type="xs:positiveInteger" use="required"/>
+								<xs:attribute name="kanava" type="xs:string" use="required"/>
+							</xs:complexType><!-- ohjelma complexType -->
+						</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element><!-- ohjelmat element -->
+				</xs:sequence>
+				<xs:attribute name="tyyppi" type="xs:string" use="required"/>
+		</xs:complexType><!-- toplista complexType -->
+	</xs:element><!-- toplista element -->
+</xs:schema>  

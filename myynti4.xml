@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myynti-ilmoitukset>
+    <asunto kunta="Espoo" rakennusvuosi="1974" tyyppi="kerrostalo" kohdenumero="1">
+        <osoite>Puosunrinne 3 B, 02320 ESPOO</osoite>
+        <kuvaus>Reilun kokoinen pikkukoti Kivenlahdesta. Rauhallinen sijainti ja hyvä pohjaratkaisu. Keittiöön mahtuu ruokapöytä.</kuvaus>
+        <hinta tyyppi="velaton">109838</hinta>
+        <hinta tyyppi="myynti">103000</hinta>
+        <pinta-ala>34.5</pinta-ala>
+        <vapautuminen aika="Heti"/>
+        <remontit>
+            <remontti vuosi="1995">Patteritermostaatit uusittu ja verkosto säädetty</remontti>
+            <remontti vuosi="1995">ikkunamaalauksia</remontti>
+            <remontti vuosi="2008">B ja C talon kylmävesirunkolinja uusittu</remontti>
+            <remontti vuosi="2011">julkisivu- ja parvekeurakka sekä lukituksen uusiminen</remontti>
+        </remontit>
+    </asunto>
+    <asunto kunta="Masku" rakennusvuosi="2006" tyyppi="omakotitalo" kohdenumero="2">
+        <osoite>Nihdintie 4, 21230 LEMU</osoite>
+        <kuvaus>Laadukas talo, jossa Siemensin maalämpöjärjestelmä vesikiertoisella lattialämmityksellä. Valoautomatiikkaa ja laadukas varustetaso. Erillinen autokatos / varastorakennus n. 38m2, paikat 2:lle autolle ja seinäsokkeli valmiina kolmannelle katokselle tai varastotilalle. Arkkitehdin tekemät muutokset ja sisustussuunnittelijan toteutukset nähtävissä talon tilan käytön ja toimivuuden myötä. Päättyvän tien päässä 2980m2:n puistoon rajoittuvalla tontilla voi lapset ja lemmikit liikkua rauhassa. </kuvaus>
+        <hinta tyyppi="velaton lähtöhinta">290000</hinta>
+        <pinta-ala>178</pinta-ala>
+        <vapautuminen aika="Sopimuksen mukaan"/>
+        <yleiskunto>Hyvä</yleiskunto>
+    </asunto>
+        <asunto kunta="Helsinki" rakennusvuosi="1931" tyyppi="kerrostalo" kohdenumero="1453">
+        <osoite>Jääkärinkatu 13 B, 00150 HELSINKI</osoite>
+        <kuvaus>Pikkukaksio sisäpihalla, keskellä Ullanlinnaa! Hyvätunnelmainen läpitalon tilaihme, jonka neliöt tehokäytössä. Makuuhuone rauhallisen sisäpihan puolella. Olohuone ja avokeittiö toiselle sisäpihalle. </kuvaus>
+        <hinta tyyppi="velaton">234000</hinta>
+        <hinta tyyppi="myynti">233291</hinta>
+        <pinta-ala>29.5</pinta-ala>
+        <vapautuminen aika="Sopimuksen mukaan"/>
+        <remontit>
+            <remontti vuosi="1980">Sähkönnousut, vesi- ja viemärijohtolinjat</remontti>
+            <remontti vuosi="2013">Porrasmaalaus</remontti>
+            <remontti vuosi="2014">B-portaan ikkunoiden maalaus</remontti>
+        </remontit>
+    </asunto>
+</myynti-ilmoitukset>

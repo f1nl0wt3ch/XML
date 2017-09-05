@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Cv">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Identification">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PersonName">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="FirstName" type="xs:string" />
+										<xs:element name="Surname" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="ContactInfo">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="AddressLine" type="xs:string" />
+										<xs:element name="PostalCode" type="xs:string" />
+										<!-- Paikkakunta -->
+										<xs:element name="Municipality" type="xs:string" />
+										<xs:element name="Country" type="xs:string" />
+										<xs:element name="Email" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Demographics">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Birthdate">
+											<xs:complexType>
+												<xs:attribute name="year" type="xs:gYear" />
+												<xs:attribute name="month" type="xs:unsignedInt" />
+												<xs:attribute name="day" type="xs:unsignedInt" />
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Gender" type="xs:string" />
+										<xs:element name="Nationality" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="WorkExperienceList">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="WorkExperience" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="From">
+											<xs:complexType>
+												<xs:attribute name="year" type="xs:gYear" />
+												<xs:attribute name="month" type="xs:unsignedInt" />
+												<xs:attribute name="day" type="xs:unsignedInt" />
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="To">
+											<xs:complexType>
+												<xs:attribute name="year" type="xs:gYear" />
+												<xs:attribute name="month" type="xs:unsignedInt" />
+												<xs:attribute name="day" type="xs:unsignedInt" />
+											</xs:complexType>
+										</xs:element>
+										<!--  Tehtävä -->
+										<xs:element name="Position" type="xs:string" />
+										<!--  Kuvaus -->
+										<xs:element name="Activities" type="xs:string" minOccurs="0"/>
+										<xs:element name="Employer" type="xs:string" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ajopaivakirja rekisterinro="XYZ-123" laatija="Risto Reissaaja"
+	xsi:noNamespaceSchemaLocation="ajopaivakirja.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ajo>
+		<alku>
+			<lukema>108497</lukema>
+			<aika kello="11:20" paiva="2016-01-02" />
+			<paikka>Ratapihantie 13, Helsinki</paikka>
+		</alku>
+		<loppu>
+			<lukema>108502</lukema>
+			<aika kello="11:30" paiva="2016-01-02" />
+			<paikka>Pajuniityntie 11, Helsinki</paikka>
+		</loppu>
+	</ajo>
+	<ajo>
+		<alku>
+			<lukema>108502</lukema>
+			<aika kello="13:00" paiva="2016-01-02" />
+			<paikka>Pajuniityntie 11, Helsinki</paikka>
+		</alku>
+		<loppu>
+			<lukema>108553</lukema>
+			<aika kello="13:40" paiva="2016-01-02" />
+			<paikka>Taidetehtaankatu 1, Porvoo</paikka>
+		</loppu>
+	</ajo>
+	<ajo>
+		<alku>
+			<lukema>108553</lukema>
+			<aika kello="16:00" paiva="2016-01-02" />
+			<paikka>Taidetehtaankatu 1, Porvoo</paikka>
+		</alku>
+		<loppu>
+			<lukema>108601</lukema>
+			<aika kello="16:40" paiva="2016-01-02" />
+			<paikka>Ratapihantie 13, Helsinki</paikka>
+		</loppu>
+	</ajo>
+</ajopaivakirja>

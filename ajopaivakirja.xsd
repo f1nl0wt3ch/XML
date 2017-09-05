@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="ajopaivakirja">
+   <xs:complexType>
+      <xs:sequence>
+          <xs:element name="ajo" maxOccurs="unbounded">
+              <xs:complexType>
+                  <xs:sequence>
+                      <xs:element name="alku">
+                          <xs:complexType>
+                              <xs:sequence>
+                                  <xs:element name="lukema" type="xs:positiveInteger" ></xs:element>
+                                  <xs:element name="aika">
+                                       <xs:complexType>
+                                            <xs:attribute name="kello" type="xs:string" />
+                                            <xs:attribute name="paiva" type="xs:date" />
+                                       </xs:complexType>
+                                  </xs:element>
+                                  <xs:element name="paikka" type="xs:string" ></xs:element>
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element>
+                      <xs:element name="loppu">
+                           <xs:complexType>
+                              <xs:sequence>
+                                  <xs:element name="lukema" type="xs:positiveInteger" ></xs:element>
+                                  <xs:element name="aika">
+                                       <xs:complexType>
+                                            <xs:attribute name="kello" type="xs:string" />
+                                            <xs:attribute name="paiva" type="xs:date" />
+                                       </xs:complexType>
+                                  </xs:element>
+                                  <xs:element name="paikka" type="xs:string" ></xs:element>
+                            
+                              </xs:sequence>
+                          </xs:complexType>
+                      </xs:element>
+                  </xs:sequence>
+              </xs:complexType>
+          </xs:element>         
+      </xs:sequence>
+      <xs:attribute name="rekisterinro" type="xs:string" use="required" />
+      <xs:attribute name="laatija" type="xs:string" use="required" />
+   </xs:complexType>
+</xs:element>
+</xs:schema>

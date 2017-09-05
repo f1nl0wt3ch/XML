@@ -1,0 +1,547 @@
+<?xml version="1.0"?>
+<Events xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xsi:noNamespaceSchemaLocation="finnkino.xsd.xsd">
+  <Event>
+    <Title>24 viikkoa</Title>
+    <OriginalTitle>24 Wochen</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>102</LengthInMinutes>
+    <dtLocalRelease>2017-01-13T00:00:00</dtLocalRelease>
+    <Rating>12</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama</Genres>
+    <ShortSynopsis>24 viikkoa on koskettava draamaelokuva naisen elämän vaikeimmasta valinnasta. Astrid on kuudennella kuulla raskaana, kun odottamaton diagnoosi pakottaa hänet pohtimaan tulevaisuuttaan uudelleen. Stand up -koomikko Astrid rakastaa työtään, manageri-miestään Markusta, yhdeksänvuotiasta tytärtään Neleä ja vitsailee lavalla toisesta raskaudestaan.</ShortSynopsis>
+    <Synopsis>24 viikkoa on koskettava draamaelokuva naisen elämän vaikeimmasta valinnasta. Astrid on kuudennella kuulla raskaana, kun odottamaton diagnoosi pakottaa hänet pohtimaan tulevaisuuttaan uudelleen.
+
+Stand up -koomikko Astrid rakastaa työtään, manageri-miestään Markusta, yhdeksänvuotiasta tytärtään Neleä ja vitsailee lavalla toisesta raskaudestaan. Kun käy ilmi, että vielä syntymätön lapsi ei olekaan terve, joutuvat Astrid ja Markus pohtimaan tulevaisuuttaan uudelleen. Alun luottavaisuus vaihtuu epäilyksi, kun diagnoosi paljastuu odotettua vakavammaksi. Astrid on lopulta tilanteessa, jossa vain hän voi päättää vauvan elämästä. Astridilla on mahdollisuus valita, mutta hänen on pakko tehdä päätös.
+
+24 viikkoa ei ole elokuva abortin puolesta tai sitä vastaan, vaan se pakottaa pohtimaan kysymystä, johon kukaan ei voi vastata toisen puolesta. Koskettavan elokuvan käsikirjoitus on rakennettu perheiden, lääkäreiden ja kätilöiden haastatteluiden pohjalta. Astridin herkässä roolissa nähdään palkittu Julia Jentsch.
+
+Kieli: saksa / Tekstitys: suomi &amp; ruotsi</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Julia</FirstName>
+        <LastName>Jentsch</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bjarne</FirstName>
+        <LastName>Mädel</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Johanna</FirstName>
+        <LastName>Gastdorf</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Emilia</FirstName>
+        <LastName>Pieske</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Maria-Victoria</FirstName>
+        <LastName>Dragus</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Anne</FirstName>
+        <LastName>Zohra Berrached</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>American Pastoral</Title>
+    <OriginalTitle>American Pastoral</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>108</LengthInMinutes>
+    <dtLocalRelease>2017-01-20T00:00:00</dtLocalRelease>
+    <Rating>Tulossa</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama, Rikoselokuva</Genres>
+    <ShortSynopsis>American Pastoral perustuu Phillip Rothin samannimiseen, Pulitzer-palkittuun romaaniin.</ShortSynopsis>
+    <Synopsis>American Pastoral perustuu Phillip Rothin samannimiseen, Pulitzer-palkittuun romaaniin.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Ewan</FirstName>
+        <LastName>McGregor</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Connelly</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dakota</FirstName>
+        <LastName>Fanning</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>David</FirstName>
+        <LastName>Strathairn</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Uzo</FirstName>
+        <LastName>Aduba</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Molly</FirstName>
+        <LastName>Parker</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Ewan</FirstName>
+        <LastName>McGregor</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>Armoton maa</Title>
+    <OriginalTitle>Armoton maa</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>90</LengthInMinutes>
+    <dtLocalRelease>2017-01-20T00:00:00</dtLocalRelease>
+    <Rating>16</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Kotimainen</Genres>
+    <ShortSynopsis>Pieni kylä Länsi-Lapissa lähellä Ruotsin rajaa. Eläkkeelle jäävä poliisi Lasse kuulee, että taposta tuomittu Jaakko on vapautunut vankilasta. Kylää aikanaan terrorisoinut Jaakko on ajautumassa törmäyskurssille Lassen pojan Erkin kanssa.</ShortSynopsis>
+    <Synopsis>Pieni kylä Länsi-Lapissa lähellä Ruotsin rajaa. Eläkkeelle jäävä poliisi Lasse kuulee, että taposta tuomittu Jaakko on vapautunut vankilasta. Kylää aikanaan terrorisoinut Jaakko on ajautumassa törmäyskurssille Lassen pojan Erkin kanssa.
+
+Yrittäessään estää kahta nuorta miestä vahingoittamasta toisiaan, vanhojen tekojen sovittaminen ja perheen salaisuuden säilyttäminen ajavat Lassen kahden tulen väliin. Pelastaakseen poikansa hänen on kohdattava menneisyytensä virheet.
+
+Lopullinen välien selvittely käydään Lapin armottomassa erämaassa.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Ville</FirstName>
+        <LastName>Virtanen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antti</FirstName>
+        <LastName>Holma</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Mikko</FirstName>
+        <LastName>Neuvonen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jørgen</FirstName>
+        <LastName>Langhelle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Outi</FirstName>
+        <LastName>Mäenpää</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pernilla</FirstName>
+        <LastName>August</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Malin</FirstName>
+        <LastName>Buska</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Jussi</FirstName>
+        <LastName>Hiltunen</LastName>
+      </Director>
+    </Directors>
+  </Event>
+
+  <Event>
+    <Title>Bleed for This</Title>
+    <OriginalTitle>Bleed for This</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>116</LengthInMinutes>
+    <dtLocalRelease>2017-01-06T00:00:00</dtLocalRelease>
+    <Rating>12</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama, Urheilu, Elämäkerta</Genres>
+    <ShortSynopsis>Tositapahtumiin perustuva inspiroiva tarina nyrkkeilijä Vinny Pazienzasta (Miles Teller), joka pian voitettuaan maailmanmestaruustittelinsä joutuu rajuun auto-onnettomuuteen. Kuullessaan lääkäreiltä, ettei hän välttämättä kävelisi enää koskaan, aloittaa Pazienza valmistautumisen yhteen urheiluhistorian uskomattomimmista comebackeista.</ShortSynopsis>
+    <Synopsis>Tositapahtumiin perustuva inspiroiva tarina nyrkkeilijä Vinny Pazienzasta (Miles Teller), joka pian voitettuaan maailmanmestaruustittelinsä joutuu rajuun auto-onnettomuuteen. Kuullessaan lääkäreiltä, ettei hän välttämättä kävelisi enää koskaan, aloittaa Pazienza valmistautumisen yhteen urheiluhistorian uskomattomimmista comebackeista.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Miles</FirstName>
+        <LastName>Teller</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aaron</FirstName>
+        <LastName>Eckhart</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Katey</FirstName>
+        <LastName>Sagal</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ciarán</FirstName>
+        <LastName>Hinds</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ted</FirstName>
+        <LastName>Levine</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Christine</FirstName>
+        <LastName>Evangelista</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Ben</FirstName>
+        <LastName>Younger</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>David Bowie Is</Title>
+    <OriginalTitle>David Bowie Is</OriginalTitle>
+    <ProductionYear>2013</ProductionYear>
+    <LengthInMinutes>100</LengthInMinutes>
+    <dtLocalRelease>2017-01-09T00:00:00</dtLocalRelease>
+    <Rating>Luok_vap</Rating>
+    <EventType>LiveEvent</EventType>
+    <Genres>Taide, Event cinema (ei elokuva)</Genres>
+    <ShortSynopsis>Dokumentti Lontoon Victoria and Albert Museumin (V&amp;A) uraauurtavasta taidenäyttelystä. David Bowie Is -näyttelyssä nähdään uskomaton kokoelma valokuvia, esiintymisasuja ja muita David Bowien arkiston harvinaisuuksia. Näyttely teki V&amp;A:n historiaa ja kiertää nyt maailman suurkaupunkeja.</ShortSynopsis>
+    <Synopsis>Dokumentti Lontoon Victoria and Albert Museumin (V&amp;A) uraauurtavasta taidenäyttelystä. David Bowie Is -näyttelyssä nähdään uskomaton kokoelma valokuvia, esiintymisasuja ja muita David Bowien arkiston harvinaisuuksia. Näyttely teki V&amp;A:n historiaa ja kiertää nyt maailman suurkaupunkeja. Dokumentti on kuvattu näyttelyn viimeisenä iltana 11.8.2013 ja sen on ohjannut mm. BAFTA palkittu Hamish Hamilton.
+
+Elokuvateatteriyleisö pääsee kokemaan näyttelyn aitiopaikalta ja erikoisvieraiden opastamana. Tarinoita David Bowien näyttelyn esineistöstä ovat kertomassa hänen yhteistyökumppaninsa, mm. japanilainen muotisuunnittelija Kansai Yamamoto ja Pulp-yhtyeen Jarvis Cocker. Näyttelyn kuraattorit Victoria Broackes ja Geoffrey Marsh kertovat unohtumattomista musiikkivideoista, esiintymisasuista sekä harvinaisista käsinkirjoitetuista sanoituksista, albumien kuvituksista ja päiväkirjamerkinnöistä, jotka paljastavat Bowien luovuuden.
+
+Toiveuusinnat Finnkinon teattereissa maanantaina 9.1.2017! Liput tulevat myyntiin torstaina 1.12. klo 14.
+
+Esitys on englanninkielinen ja myös tekstitetty englanniksi.</Synopsis>
+    <Directors>
+      <Director>
+        <FirstName>Hamish</FirstName>
+        <LastName>Hamilton</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>Fifty Shades Darker</Title>
+    <OriginalTitle>Fifty Shades Darker</OriginalTitle>
+    <ProductionYear>2017</ProductionYear>
+    <LengthInMinutes>0</LengthInMinutes>
+    <dtLocalRelease>2017-02-10T00:00:00</dtLocalRelease>
+    <Rating>Tulossa</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama, Romantiikka</Genres>
+    <Cast>
+      <Actor>
+        <FirstName>Dakota</FirstName>
+        <LastName>Johnson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jamie</FirstName>
+        <LastName>Dornan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Tyler</FirstName>
+        <LastName>Hoechlin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kim</FirstName>
+        <LastName>Basinger</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bella</FirstName>
+        <LastName>Heathcote</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Hugh</FirstName>
+        <LastName>Dancy</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jennifer</FirstName>
+        <LastName>Ehle</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Marcia Gay</FirstName>
+        <LastName>Harden</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Max</FirstName>
+        <LastName>Martini</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eric</FirstName>
+        <LastName>Balfour</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Eloise</FirstName>
+        <LastName>Mumford</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Luke</FirstName>
+        <LastName>Grimes</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Andrew</FirstName>
+        <LastName>Airlie</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rita</FirstName>
+        <LastName>Ora</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>James</FirstName>
+        <LastName>Foley</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>Hidden Figures - varjoon jääneet</Title>
+    <OriginalTitle>Hidden Figures</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>127</LengthInMinutes>
+    <dtLocalRelease>2017-01-27T00:00:00</dtLocalRelease>
+    <Rating>Tulossa</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama</Genres>
+    <ShortSynopsis>Hidden Figures - varjoon jääneet on inspiroiva tositarina kolmesta periksiantamattomasta afroamerikkalaisesta naisnerosta, jotka tekivät käänteentekevää työtä NASA:lla.</ShortSynopsis>
+    <Synopsis>Hidden Figures - varjoon jääneet on inspiroiva tositarina kolmesta periksiantamattomasta afroamerikkalaisesta naisnerosta, jotka tekivät käänteentekevää työtä NASA:lla. Katherine Johnson (Taraji P. Henson), Dorythy Vaughn (Octavia Spencer) ja Mary Jackson (Janelle Monáe) toimivat historiallisesti merkittävän operaation aivoina, kun astronautti John Glenn lähetettiin ensimmäisen kerran avaruuteen. Tämä mullistava saavutus palautti kansallisen itsetunnon ja toi USA:n vahvasti mukaan avaruuskilpailuun Neuvostoliiton rinnalle. Nämä ihmistietokoneiksikin kutsutut naiset kaatoivat aikanaan sukupuoli- ja roturaja-aitoja, ja ovat rohkaisseet tulevia sukupolvia tavoittelemaan unelmiaan.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Taraji P.</FirstName>
+        <LastName>Henson</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Octavia</FirstName>
+        <LastName>Spencer</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Janelle</FirstName>
+        <LastName>Monae</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kevin</FirstName>
+        <LastName>Costner</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Kirsten</FirstName>
+        <LastName>Dunst</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Jim</FirstName>
+        <LastName>Parsons</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Theodore</FirstName>
+        <LastName>Melfi</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>Jackie</Title>
+    <OriginalTitle>Jackie</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>100</LengthInMinutes>
+    <dtLocalRelease>2017-01-06T00:00:00</dtLocalRelease>
+    <Rating>12</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Draama, Elämäkerta</Genres>
+    <ShortSynopsis>Oscar-voittaja Natalie Portman esittää Jacqueline Kennedyä tyylikkäässä elämäkertaelokuvassa. Miehensä salamurhan jälkeen Jackien on surustaan huolimatta pidettävä perheensä koossa ja huolehdittava siitä, että hänen miehensä arvokas perintö jää elämään.</ShortSynopsis>
+    <Synopsis>Finnkinon Kuukauden elokuva tammikuussa 2017!
+
+Oscar-voittaja Natalie Portman esittää Jacqueline Kennedyä tyylikkäässä elämäkertaelokuvassa. Miehensä salamurhan jälkeen Jackien on surustaan huolimatta pidettävä perheensä koossa ja huolehdittava siitä, että hänen miehensä arvokas perintö jää elämään.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Natalie</FirstName>
+        <LastName>Portman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Peter</FirstName>
+        <LastName>Sarsgaard</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Greta</FirstName>
+        <LastName>Gerwig</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Billy</FirstName>
+        <LastName>Crudup</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Hurt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Richard E.</FirstName>
+        <LastName>Grant</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Pablo</FirstName>
+        <LastName>Larraín</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>John Wick: Chapter 2</Title>
+    <OriginalTitle>John Wick: Chapter 2</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>0</LengthInMinutes>
+    <dtLocalRelease>2017-02-10T00:00:00</dtLocalRelease>
+    <Rating>Tulossa</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Toiminta, Jännitys</Genres>
+    <ShortSynopsis>Legendaarinen superpalkkamurhaaja John Wick (Keanu Reeves) on pakotettu palaamaan eläkkeeltä, kun vanha liittolainen suunnittelee kaappaavansa vallan italialaisessa palkkamurhaajien killassa. Verivalan sitomana Johnin on autettava liittolaistaan ja matkustettava Roomaan, jossa hän kohtaa maailman armottomimmat tappajat.</ShortSynopsis>
+    <Synopsis>Legendaarinen superpalkkamurhaaja John Wick (Keanu Reeves) on pakotettu palaamaan eläkkeeltä, kun vanha liittolainen suunnittelee kaappaavansa vallan italialaisessa palkkamurhaajien killassa. Verivalan sitomana Johnin on autettava liittolaistaan ja matkustettava Roomaan, jossa hän kohtaa maailman armottomimmat tappajat.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Keanu</FirstName>
+        <LastName>Reeves</LastName>
+      </Actor>
+      <Actor>
+        <LastName>Common</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Laurence</FirstName>
+        <LastName>Fishburne</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ruby</FirstName>
+        <LastName>Rose</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Bridget</FirstName>
+        <LastName>Moynahan</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Lance</FirstName>
+        <LastName>Reddick</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Riccardo</FirstName>
+        <LastName>Scamarcio</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Chad</FirstName>
+        <LastName>Stahelski</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>Kuudes kerta</Title>
+    <OriginalTitle>Kuudes kerta</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>108</LengthInMinutes>
+    <dtLocalRelease>2017-01-06T00:00:00</dtLocalRelease>
+    <Rating>16</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Komedia, Draama, Kotimainen</Genres>
+    <ShortSynopsis>Ricky Kalin (Antti Luusuaniemi) on kiinteistönvälittäjä, joka rakastaa naisia. Annika Lahti (Pihla Viitala) on yksityisetsivä, ei niin kovin hyvä sellainen. Annika on erikoistunut monimutkaisten suhteiden paljastamiseen, kauniisti sanottuna. Ricky on erinomainen myyntimies, jolla on kaksi kalenteria – työkalenteri ja kalenteri naisille.</ShortSynopsis>
+    <Synopsis>Maarit Lallin elokuva naisesta joka osasi sanoa kyllä, ja miehestä joka ei osannut sanoa ei.
+
+Ricky Kalin (Antti Luusuaniemi) on kiinteistönvälittäjä, joka rakastaa naisia. Annika Lahti (Pihla Viitala) on yksityisetsivä, ei niin kovin hyvä sellainen. Annika on erikoistunut monimutkaisten suhteiden paljastamiseen, kauniisti sanottuna. Ricky on erinomainen myyntimies, jolla on kaksi kalenteria – työkalenteri ja kalenteri naisille.
+
+Työkeikallaan Annika törmää kiinteistönvälittäjän ständiin. Asuntonäytössä ei turhaa aikailla: Annika haluaa pelkkää seksiä, ilman tunteita. Rickylle tämä on ihan fine.
+
+Suhde toimii molemminpuolisessa yhteistyö- ja avunantosopimuksessa – kunnes tulee se kuuluisa kuudes kerta.
+
+”Tuskin me mitään rakkautta etsitään, kumpikaan.”</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Pihla</FirstName>
+        <LastName>Viitala</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Antti</FirstName>
+        <LastName>Luusuaniemi</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Minna</FirstName>
+        <LastName>Haapkylä</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Stig</FirstName>
+        <LastName>Rästa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Arja</FirstName>
+        <LastName>Saijonmaa</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Dick</FirstName>
+        <LastName>Idman</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Pirkka-Pekka</FirstName>
+        <LastName>Petelius</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Esko</FirstName>
+        <LastName>Salminen</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Reino</FirstName>
+        <LastName>Nordin</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Aksa</FirstName>
+        <LastName>Korttila</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Sebastian</FirstName>
+        <LastName>Rejman</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Maarit</FirstName>
+        <LastName>Lalli</LastName>
+      </Director>
+    </Directors>
+  </Event>
+  <Event>
+    <Title>La La Land</Title>
+    <OriginalTitle>La La Land</OriginalTitle>
+    <ProductionYear>2016</ProductionYear>
+    <LengthInMinutes>128</LengthInMinutes>
+    <dtLocalRelease>2017-01-13T00:00:00</dtLocalRelease>
+    <Rating>S</Rating>
+    <EventType>Movie</EventType>
+    <Genres>Komedia, Draama, Romantiikka, Musikaali</Genres>
+    <ShortSynopsis>La La Land -elokuva kertoo aloittelevan näyttelijän Mian (Emma Stone) ja omistautuneen jazz-muusikon Sebastianin (Ryan Gosling) tarinan. He ponnistelevat unelmiensa eteen kaupungissa, joka tunnetusti tuhoaa toiveet ja särkee sydämet.</ShortSynopsis>
+    <Synopsis>Here is for the fools who dream.
+
+La La Land -elokuva kertoo aloittelevan näyttelijän Mian (Emma Stone) ja omistautuneen jazz-muusikon Sebastianin (Ryan Gosling) tarinan. He ponnistelevat unelmiensa eteen kaupungissa, joka tunnetusti tuhoaa toiveet ja särkee sydämet. Nykyhetken Los Angelesin päivittäisestä elämästä kertova alkuperäismusikaali tutustuttaa unelmien tavoittelun iloihin ja suruihin.
+
+Oscar-®ehdokas Damien Chazellen (Whiplash) käsikirjoittama ja ohjaama La La Land on rakkaudenosoitus enkelten kaupungille ja Hollywood-musikaaleille.</Synopsis>
+    <Cast>
+      <Actor>
+        <FirstName>Emma</FirstName>
+        <LastName>Stone</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Ryan</FirstName>
+        <LastName>Gosling</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Rosemarie</FirstName>
+        <LastName>DeWitt</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>J.K.</FirstName>
+        <LastName>Simmons</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>John</FirstName>
+        <LastName>Legend</LastName>
+      </Actor>
+      <Actor>
+        <FirstName>Finn</FirstName>
+        <LastName>Wittrock</LastName>
+      </Actor>
+    </Cast>
+    <Directors>
+      <Director>
+        <FirstName>Damien</FirstName>
+        <LastName>Chazelle</LastName>
+      </Director>
+    </Directors>
+  </Event>
+ 
+</Events>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tyontekijat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tyontekijat.xsd">
+    <tyontekija asema="Johtaja" id="1">
+        <sukunimi>Virtanen</sukunimi>
+        <etunimi>Matti</etunimi>
+        <etunimi kutsuma="kyllä">Jukka</etunimi>
+        <etunimi>Petteri</etunimi>
+        <palkka>5000</palkka>
+        <osasto nimi="Hallinto"/>
+    </tyontekija>
+    <tyontekija id="2">
+        <sukunimi>Lahtinen</sukunimi>
+        <etunimi kutsuma="kyllä">Liisa</etunimi>
+        <palkka>6200</palkka>
+    </tyontekija>
+    <tyontekija id="3">
+        <sukunimi>Virtanen</sukunimi>
+        <etunimi kutsuma="kyllä">Leena</etunimi>
+        <etunimi>Maija</etunimi>
+        <palkka>3200</palkka>
+    </tyontekija>
+    <tyontekija asema="sihteeri" id="4">
+        <sukunimi>Lahtinen</sukunimi>
+        <etunimi kutsuma="kyllä">Jukka</etunimi>
+        <osasto nimi="Myynti"/>
+    </tyontekija>
+
+</tyontekijat>

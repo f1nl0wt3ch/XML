@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-content>
+	<tournament>
+		<tournament-metadata start-date-time="2013-08-10"
+			end-date-time="2013-08-18" tournament-name="Friidrott">
+			<site>
+				<site-metadata>
+					<home-location city="Moscow" country="Russia" />
+				</site-metadata>
+			</site>
+		</tournament-metadata>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="throw">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="Javelin" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+
+			<tournament-round>
+				<tournament-round-metadata round-name="final" />
+				<sports-event>
+					<event-metadata event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Vítězslav Veselý" />
+							<home-location country="Czech" />
+						</player-metadata>
+						<player-stats score="87,17">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Tero Pitkämäki" />
+							<home-location country="Finland" />
+						</player-metadata>
+						<player-stats score="87,07">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Dmitri Tarabin" />
+							<home-location country="Ryssland" />
+						</player-metadata>
+						<player-stats score="86,23">
+							<award award-type="medal" name="Bronze" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Julius Yego" />
+							<home-location country="Kenyan" />
+						</player-metadata>
+						<player-stats score="85,40">
+							<rank value="4" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Antti Ruuskanen" />
+							<home-location country="Finland" />
+						</player-metadata>
+						<player-stats score="81,44">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Andreas Thorkildsen" />
+							<home-location country="Norway" />
+						</player-metadata>
+						<player-stats score="81,06">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Ihab Abdelrahman El Sayed" />
+							<home-location country="Egypt" />
+						</player-metadata>
+						<player-stats score="80,94">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Risto Mätas" />
+							<home-location country="Estonia" />
+						</player-metadata>
+						<player-stats score="80,03">
+							<rank value="8" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="100 m">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="100-metre-dash" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+			<tournament-round>
+				<tournament-round-metadata round-name="finals" />
+
+				<sports-event>
+					<event-metadata event-status="post-event"
+						event-style="ranked" event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Usain Bolt" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,77">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Justin Gatlin" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,85">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Nesta Carter" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,95">
+							<award award-type="medal" name="Brons" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Kemar Bailey-Cole" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,98">
+							<rank value="4" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Nickel Ashmeade" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,98">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Mike Rodgers" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="10,04">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Christophe Lemaitre" />
+							<home-location country="France" />
+						</player-metadata>
+						<player-stats score="10,06">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="James Dasaolu" />
+							<home-location country="United Kingdom" />
+						</player-metadata>
+						<player-stats score="10,24">
+							<rank value="8" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+	</tournament>
+	
+	<tournament>
+		<tournament-metadata start-date-time="2015-08-22"
+			end-date-time="2015-08-30" tournament-name="Friidrott">
+			<site>
+				<site-metadata>
+					<home-location city="Peking" country="Kina" />
+				</site-metadata>
+			</site>
+		</tournament-metadata>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="throw">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="Javelin" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+
+			<tournament-round>
+				<tournament-round-metadata round-name="final" />
+				<sports-event>
+					<event-metadata event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Julius Yego" />
+							<home-location country="Kenyan" />
+						</player-metadata>
+						<player-stats score="92,72">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Ihab Abdelrahman" />
+							<home-location country="Egypt" />
+						</player-metadata>
+						<player-stats score="88,99">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Tero Pitkämäki" />
+							<home-location country="Finland" />
+						</player-metadata>
+						<player-stats score="87,64">
+							<award award-type="medal" name="Bronze" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Thomas Röhler" />
+							<home-location country="German" />
+						</player-metadata>
+						<player-stats score="87,41">
+							<rank value="4" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Antti Ruuskanen" />
+							<home-location country="Finland" />
+						</player-metadata>
+						<player-stats score="87,12">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Andreas Hoffmann" />
+							<home-location country="German" />
+						</player-metadata>
+						<player-stats score="86,01">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Johannes Vetter" />
+							<home-location country="German" />
+						</player-metadata>
+						<player-stats score="83,79">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Vitezslav Vesely" />
+							<home-location country="Czech" />
+						</player-metadata>
+						<player-stats score="83,13">
+							<rank value="8" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="100 m">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="100-metre-dash" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+			<tournament-round>
+				<tournament-round-metadata round-name="finals" />
+
+				<sports-event>
+					<event-metadata event-status="post-event"
+						event-style="ranked" event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Usain Bolt" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,79">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Justin Gatlin" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,80">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Trayvon Bromell" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,92">
+							<award award-type="medal" name="Brons" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Andre De Grasse" />
+							<home-location country="Canada" />
+						</player-metadata>
+						<player-stats score="9,92">
+							<award award-type="medal" name="Brons" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Mike Rodgers" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,94">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Tyson Gay" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,94">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Asafa Powell" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="10,00">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Jimmy Vicaut" />
+							<home-location country="France" />
+						</player-metadata>
+						<player-stats score="10,00">
+							<rank value="8" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Bingtian Su" />
+							<home-location country="China" />
+						</player-metadata>
+						<player-stats score="10,06">
+							<rank value="9" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+	</tournament>
+	<tournament>
+		<tournament-metadata start-date-time="2016-08-05"
+			end-date-time="2016-08-21" tournament-name="Olympic">
+			<site>
+				<site-metadata>
+					<home-location city="Rio" country="Brasilia" />
+				</site-metadata>
+			</site>
+		</tournament-metadata>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="throw">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="Javelin" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+
+			<tournament-round>
+				<tournament-round-metadata round-name="final" />
+				<sports-event>
+					<event-metadata event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Röhler Thomas" />
+							<home-location country="German" />
+						</player-metadata>
+						<player-stats score="90,30">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Julius Yego" />
+							<home-location country="Kenyan" />
+						</player-metadata>
+						<player-stats score="88,24">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Keshorn Walcott" />
+							<home-location country="Trinidad &amp; Tobago" />
+						</player-metadata>
+						<player-stats score="85,28">
+							<award award-type="medal" name="Bronze" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Johannes Vetter" />
+							<home-location country="German" />
+						</player-metadata>
+						<player-stats score="85,32">
+							<rank value="4" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Dmytro Kosynskyi" />
+							<home-location country="Ukraina" />
+						</player-metadata>
+						<player-stats score="83,95">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Antti Ruuskanen" />
+							<home-location country="Finland" />
+						</player-metadata>
+						<player-stats score="83,05">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="IVítězslav Veselý" />
+							<home-location country="Czech" />
+						</player-metadata>
+						<player-stats score="82,51">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Jakub Vadlejch" />
+							<home-location country="Czech" />
+						</player-metadata>
+						<player-stats score="82,42">
+							<rank value="8" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+
+		<tournament-division>
+			<tournament-division-metadata
+				division-name="100 m">
+				<sports-content-codes>
+					<sports-content-code code-type="sport"
+						code-key="100-metre-dash" />
+					<sports-content-code code-type="sport-class">
+						<sports-content-qualifier gender="male" />
+					</sports-content-code>
+				</sports-content-codes>
+			</tournament-division-metadata>
+			<tournament-round>
+				<tournament-round-metadata round-name="finals" />
+
+				<sports-event>
+					<event-metadata event-status="post-event"
+						event-style="ranked" event-name="final" />
+					<player>
+						<player-metadata>
+							<name full="Usain Bolt" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,81">
+							<award award-type="medal" name="Gold" />
+							<rank value="1" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Justin Gatlin" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="9,89">
+							<award award-type="medal" name="Silver" />
+							<rank value="2" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Andre De Grasse" />
+							<home-location country="Canada" />
+						</player-metadata>
+						<player-stats score="9,91">
+							<award award-type="medal" name="Brons" />
+							<rank value="3" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Johan Blake" />
+							<home-location country="Jamaica" />
+						</player-metadata>
+						<player-stats score="9,93">
+							<rank value="4" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Akani Simbine" />
+							<home-location country="South Africa" />
+						</player-metadata>
+						<player-stats score="9,94">
+							<rank value="5" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Meïté Ben Youssef" />
+							<home-location country="Ivory Coast" />
+						</player-metadata>
+						<player-stats score="9,96">
+							<rank value="6" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Jimmy Vicaut" />
+							<home-location country="France" />
+						</player-metadata>
+						<player-stats score="10,04">
+							<rank value="7" />
+						</player-stats>
+					</player>
+					<player>
+						<player-metadata>
+							<name full="Trayvon Bromell" />
+							<home-location country="USA" />
+						</player-metadata>
+						<player-stats score="10,06">
+							<rank value="8" />
+						</player-stats>
+					</player>
+				</sports-event>
+			</tournament-round>
+		</tournament-division>
+	</tournament>
+</sports-content>

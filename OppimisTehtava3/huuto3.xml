@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<entry>
+    <title>Toinen testaus</title>
+    <category scheme="http://api.huuto.net/somt/0.9/categories/123"/>
+    <summary>28.2.2017 laskiaistiistai</summary>
+    <expirationTime>2017-02-28</expirationTime>
+    <price>
+        <startingPrice currency="EUR">0</startingPrice>
+    </price>
+    <deliveryMethods>
+        <deliveryMethod type="nouto"/>
+    </deliveryMethods>
+</entry>

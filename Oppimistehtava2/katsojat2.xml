@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<toplista tyyppi='vko50'>
+ <tiedot>
+  <vuosi>2016</vuosi>
+  <viikko>50</viikko>
+  <lahde>Yle Areena</lahde>
+  <saate>Finnpanel Oy mittaa jatkuvalla paneelitutkimuksella suomalaisten tv-katselua. 
+      TV-mittaritutkimukseen on satunnaisesti valittu 1100 taloutta siten, että ne edustavat TV-talouksia Suomessa. 
+      Tutkimukseen osallistuvat kaikki kolme vuotta täyttäneet perheenjäsenet, yhteensä noin 2300 henkilöä.</saate>
+ </tiedot>
+ <ohjelmat>
+  <ohjelma jnro="1" kanava="YLE TV1">
+    <nimi>Kotikatsomo: Sorjonen (16)</nimi>
+    <katsojamaara>106000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="2" kanava="YLE TV2">
+    <nimi>Ryhmä Hau (S)</nimi>
+    <katsojamaara>103000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="3" kanava="YLE TV2">
+    <nimi>Downshiftaajat (12)</nimi>
+    <katsojamaara>84000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="4" kanava="YLE TV2">
+    <nimi>Uusi Päivä (S)</nimi>
+    <katsojamaara>82000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="5" kanava="YLE TV2">
+    <nimi>Joulukalenteri: Jäätävä seikkailu (S)</nimi>
+    <katsojamaara>76000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="6" kanava="YLE TV2">
+    <nimi>Kimmo (7)</nimi>
+    <katsojamaara>73000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="7" kanava="YLE TV1">
+    <nimi>Kotiin takaisin (12)</nimi>
+    <katsojamaara>73000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="8" kanava="YLE TV2">
+    <nimi>Kaapo (S)</nimi>
+    <katsojamaara>36000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="9" kanava="YLE TV1">
+    <nimi>Poldark (12)</nimi>
+    <katsojamaara>33000</katsojamaara>
+  </ohjelma>
+  <ohjelma jnro="10" kanava="YLE TV2">
+    <nimi>Saara ja Sorsa (S)</nimi>
+    <katsojamaara>28000</katsojamaara>
+  </ohjelma>
+ </ohjelmat>
+</toplista>

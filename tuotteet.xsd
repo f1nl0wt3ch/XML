@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<!-- Sääntö 3, koska elementillä on alielementtejä -->
+	<xs:element name="tuotteet">
+		<xs:complexType>
+			<xs:sequence>
+				<!-- Sääntö 3, koska tuote-elementillä on alielementtejä -->
+				<xs:element name="tuote" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<!-- tuote-elementin alielementit -->
+							<!-- Sääntö 1, koska nimi on pelkkä elementti -->
+							<xs:element name="nimi" type="xs:string" />
+							<!-- Sääntö 1, koska kuvaus on pelkkä elementti -->
+							<xs:element name="kuvaus" type="xs:string" minOccurs="0" />
+							<!-- Sääntö 5, koska hinta-elementti on attribuutillinen elementti -->
+							<xs:element name="hinta">
+								<xs:complexType>
+									<xs:simpleContent>
+										<xs:extension base="xs:decimal">
+											<xs:attribute name="valuutta" type="xs:string"
+												default="euro" />
+										</xs:extension>
+									</xs:simpleContent>
+								</xs:complexType>
+							</xs:element>
+							<!-- Sääntö 4, koska kuva-elementti on tyhjä -->
+							<xs:element name="kuva" minOccurs="0" maxOccurs="10">
+								<xs:complexType>
+									<xs:attribute name="src" type="xs:anyURI" use="required" />
+									<xs:attribute name="tyyppi" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<!-- tuote-elementin attribuutit -->
+						<xs:attribute name="tuotekoodi" type="xs:unsignedInt"
+							use="required" />
+						<xs:attribute name="ryhma" type="xs:string" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<!-- tuotteet-elementin attribuutit -->
+			<!-- Sääntö2, koska attribuutti -->
+			<xs:attribute name="paivitetty" type="xs:date" use="required" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
